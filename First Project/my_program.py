@@ -1,2 +1,7 @@
 print(3 + 4)
 print(4 + 9)
+print(117 + 986)
+print(199 - 981)
+print(3 + 4 + 5 - 6)
+print(3+4)
+print(3 + 4)
